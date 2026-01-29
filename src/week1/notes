@@ -1,0 +1,62 @@
+Day 1:
+  1.second largest number
+  2.second smallest number
+  3.distinct In Place
+  homework
+     1.[0,1,1,0,1,1] -> [0,0,1,1,1,1]
+     2.[1,0,2,1,0,1,2] -> [0,0,1,1,1,2,2]
+     3,[1,0,4,0,0,5,6,0,0,2] -> [1,4,5,6,2,0,0,0,0,0]
+  note of day1:
+     duch national flag algorithm 3- pointers
+
+Day 2:
+  1.2-sum
+  2,3-sum
+  3.left and right rotation-InLine
+  4.frequency array
+  5.first unique element
+  homework:
+    coincapcity
+    diagonalmatixsum
+    NearestPrimeNum
+    PascalsTriangle
+    Pattern
+  note of a day:
+      2-pointers
+  questions:
+     1.What is Java?
+     2.What are the main features of Java?
+     3.Why java is platform independent?
+     4.Is java 100% or purely object oriented and justify your answer?
+     5.Difference between JDK, JRE, and JVM?
+     6.What is bytecode?
+     7.What is the default value of a local variable?
+     8.Is String a data type in java and justify your answer?
+     9.Can we declare multiple public classes in one java file?
+     10.Can you explain the statement “System.out.println() and public static void main(String args[])”?
+
+Day 3:
+  ArrayReverse
+  2-Sorted array combine
+  Homework
+    Distributioncount
+    LongConsecutiveSubsequence
+    Pallindrome
+    Pangram
+    ProductofArray without self
+    Stock Profit
+  Notes of a day:
+    array modifications
+  questions:
+     1.Is String mutable or immutable?
+     2.Can switch be used with String values?
+     3.How will you compare two strings?
+     4.What is final variable?
+     5.Difference between & and &&, | and || operators?
+     6.What does System.exit(0) does and in which package it is available?
+     7.What are literals in Java?
+     8.What is type casting? Explain implicit and explicit casting.
+     9.What is ternary operator?
+     10.What is the instanceof operator used for?
+  interview topics :
+     String -> scp,heap and its working
