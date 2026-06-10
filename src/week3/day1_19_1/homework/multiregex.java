@@ -27,7 +27,7 @@ public class multiregex {
             extract("Repeated Words", "\\b(\\w+)\\s+\\1\\b", text);
             extract(
                     "Strong Passwords",
-                    "(?m)^Password\\d+:\\s*(?=.*[A-Z])(?=.*[a-z])(?=.*\\d)(?=.*[@#$%])\\S+",
+                    "(?m)^Password\\d+:\\s*([A-Z]?=.*)(?=.*[a-z])(?=.*\\d)(?=.*[@#$%])\\S+",
                     text
             );
 

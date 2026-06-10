@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0db98413-7d68-42cb-ac8b-53641b93d8a8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Gendral/StringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gendral/spiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/June_July_Placement/Common_Longest_Subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/June_July_Placement/Knapsack_problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/June_July_Placement/Minimum_Coins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetPractice/StringCompression_443.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/day1/Minleft_Minright.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/day2/ThreeLargeNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week6/day2/TwoLargeNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/day2/LeftRotatedBS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week5/day1/maximumSumInK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/day2_6_1/homework/NearestPrimeNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/day2_6_1/homework/NearestPrimeNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/day4_8_1/exe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/day4_8_1/exe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week3/day1_19_1/homework/multiregex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week3/day1_19_1/homework/multiregex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week3/day1_19_1/regex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week3/day1_19_1/regex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week4/day1/MergeIntervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week4/day1/MergeIntervals.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="63" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3B12R67aCdiQZ0cQe3aj7kG4tEO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Common_Longest_Subsequence.executor": "Run",
+    "Application.Knapsack_problem.executor": "Run",
+    "Application.Minimum_Coins.executor": "Run",
+    "Application.StringCompression_443.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Admin/Documents/IdeaProjects/ProblemSloving",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0db98413-7d68-42cb-ac8b-53641b93d8a8" name="Changes" comment="" />
+      <created>1773642245178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773642245178</updated>
+      <workItem from="1773642248903" duration="613000" />
+      <workItem from="1773643341875" duration="700000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
