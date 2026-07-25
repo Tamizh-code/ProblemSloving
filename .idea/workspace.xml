@@ -4,27 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0db98413-7d68-42cb-ac8b-53641b93d8a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Gendral/StringManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gendral/spiralMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/June_July_Placement/Common_Longest_Subsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/June_July_Placement/Knapsack_problem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/June_July_Placement/Minimum_Coins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetPractice/StringCompression_443.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week6/day1/Minleft_Minright.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week6/day2/ThreeLargeNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week6/day2/TwoLargeNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week4/day2/LeftRotatedBS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week5/day1/maximumSumInK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week1/day2_6_1/homework/NearestPrimeNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/day2_6_1/homework/NearestPrimeNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week1/day4_8_1/exe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/day4_8_1/exe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week3/day1_19_1/homework/multiregex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week3/day1_19_1/homework/multiregex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week3/day1_19_1/regex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week3/day1_19_1/regex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/day1/MergeIntervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week4/day1/MergeIntervals.java" afterDir="false" />
+    <list default="true" id="0db98413-7d68-42cb-ac8b-53641b93d8a8" name="Changes" comment="june july work">
+      <change afterPath="$PROJECT_DIR$/src/Bank/Current.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bank/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bank/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bank/Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bank/Savings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/June_July_Placement/BANKING_APP/BankATM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/June_July_Placement/BANKING_APP/Model/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/June_July_Placement/BANKING_APP/Model/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/June_July_Placement/BANKING_APP/Model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/June_July_Placement/BANKING_APP/Service/ATMOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/June_July_Placement/DSA/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/June_July_Placement/DSA/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/June_July_Placement/DSA/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/June_July_Placement/DSA/StackAL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/June_July_Placement/DSA/StackArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/June_July_Placement/DSA/Stack_LL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/June_July_Placement/Longest_Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Opps_Basics/ClassObjects/CommonOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Opps_Basics/ClassObjects/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Opps_Basics/ClassObjects/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Opps_Basics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VehicleSystem/Model/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VehicleSystem/Model/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VehicleSystem/Model/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VehicleSystem/Service/VehicleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VehicleSystem/dao/VehicleDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VehicleSystem/db/DBConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VehicleSystem/db/TestDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VehicleSystem/main/VehicleMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/Overriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student_management_system/Operater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student_management_system/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student_management_system/logic/range.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student_management_system/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +51,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="63" />
+    <option name="cachedIndexableFilesCount" value="76" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,9 +80,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BST.executor": "Run",
     "Application.Common_Longest_Subsequence.executor": "Run",
     "Application.Knapsack_problem.executor": "Run",
+    "Application.LinkedList.executor": "Run",
+    "Application.Longest_Substring.executor": "Run",
+    "Application.MergeIntervals.executor": "Run",
+    "Application.MergeIntervals_II.executor": "Run",
     "Application.Minimum_Coins.executor": "Run",
+    "Application.Queue.executor": "Run",
+    "Application.StackAL.executor": "Run",
+    "Application.StackArray.executor": "Run",
+    "Application.Stack_LL.executor": "Run",
     "Application.StringCompression_443.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
@@ -75,7 +103,7 @@
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Admin/Documents/IdeaProjects/ProblemSloving",
+    "last_opened_file_path": "C:/Users/Admin/Documents/DEVLOPMENT/KNOWLEDGE/PROJECTS/programming/ProblemSloving/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -86,10 +114,36 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Documents\DEVLOPMENT\KNOWLEDGE\PROJECTS\programming\ProblemSloving\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="June_July_Placement.DSA.Queue" />
+      <module name="ProblemSloving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="June_July_Placement.DSA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Queue" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
         <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
       </set>
     </attachedChunks>
   </component>
@@ -102,7 +156,22 @@
       <updated>1773642245178</updated>
       <workItem from="1773642248903" duration="613000" />
       <workItem from="1773643341875" duration="700000" />
+      <workItem from="1784009235961" duration="3187000" />
+      <workItem from="1784088985059" duration="1444000" />
+      <workItem from="1784262638750" duration="2726000" />
+      <workItem from="1784302095306" duration="1665000" />
+      <workItem from="1784701616634" duration="1078000" />
+      <workItem from="1784889028129" duration="778000" />
     </task>
+    <task id="LOCAL-00001" summary="june july work">
+      <option name="closed" value="true" />
+      <created>1781076561083</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1781076561083</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,5 +187,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="june july work" />
+    <option name="LAST_COMMIT_MESSAGE" value="june july work" />
   </component>
 </project>
